@@ -105,7 +105,7 @@ This project demonstrates how data-driven insights can uncover ethical concerns 
 ---
 
 ## **References**
-- [538 Article: "Be Suspicious of Online Movie Ratings, especially Fandango’s"](https://fivethirtyeight.com/features/fandango-movie-ratings/)
+- [538 Article: "Be Suspicious of Online Movie Ratings, especially Fandango’s"](https://fivethirtyeight.com/features/fandango-movies-ratings/)
 - Wikipedia: *Taken 3*'s Critical Reception
 
 ---
@@ -119,4 +119,4 @@ Special thanks to [538](https://fivethirtyeight.com/) for the inspiration and da
 For any questions or feedback, feel free to reach out:
 - **Name**: Vedant Pimple
 - **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **LinkedIn**: [linkedin.com/in/vedant-pimple](https://linkedin.com/in/vedant-pimple)
+- **LinkedIn**: [linkedin.com/in/vedant-pimple](https://www.linkedin.com/in/vedant-pimple-523a65228)
