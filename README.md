@@ -118,5 +118,5 @@ Special thanks to [538](https://projects.fivethirtyeight.com/polls/) for the ins
 ## **Contact**
 For any questions or feedback, feel free to reach out:
 - **Name**: Vedant Pimple
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
+- **Email**: [vedantpimple1775@gmail.com](mailto:vedantpimple1775@gmail.com)
 - **LinkedIn**: [linkedin.com/in/vedant-pimple](https://www.linkedin.com/in/vedant-pimple-523a65228)
