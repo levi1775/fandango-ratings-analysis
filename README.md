@@ -55,7 +55,7 @@ The project uses two main datasets:
 
 ## **Skills and Tools Demonstrated**
 - **Programming Languages**: Python
-- **Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Data Analysis Techniques**: EDA, normalization, cross-platform comparison
 - **Visualization**: Histograms, scatter plots, cluster maps
 - **Critical Thinking**: Uncovered ethical concerns in online rating systems
@@ -111,7 +111,7 @@ This project demonstrates how data-driven insights can uncover ethical concerns 
 ---
 
 ## **Acknowledgments**
-Special thanks to [538](https://fivethirtyeight.com/) for the inspiration and datasets used in this analysis.
+Special thanks to [538](https://projects.fivethirtyeight.com/polls/) for the inspiration and datasets used in this analysis.
 
 ---
 
