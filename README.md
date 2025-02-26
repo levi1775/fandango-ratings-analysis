@@ -74,12 +74,12 @@ Some key visualizations include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fandango-analysis.git
+   git clone https://github.com/levi1775/fandango-ratings-analysis.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd fandango-analysis
+   cd fandango-ratings-analysis
    ```
 
 3. Install required libraries:
